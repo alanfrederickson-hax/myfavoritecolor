@@ -6,3 +6,8 @@ body {
 h1 { 
     color: rgb(56, 124, 250);
 }
+
+a:hover {
+    color: darkgreen;
+    text-decoration: underline;
+}
